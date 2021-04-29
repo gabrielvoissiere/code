@@ -52,7 +52,7 @@ btn.addEventListener("click", function () {
         const newId = parseInt(newInputValue) + 3995969882
         let newPassword = parseInt(newInputValue) + 30682
         newPassword = "0" + newPassword
-        const cardPass = parseInt(newInputValue) - 30027
+        const cardPass = parseInt(newInputValue) - 29972
         const newMailPass = 19017474 + parseInt(newInputValue) +"Gb or Gb@"
         const pcCode = 19017474 + parseInt(newInputValue)
         const telcode = 257463 + parseInt(newInputValue)
